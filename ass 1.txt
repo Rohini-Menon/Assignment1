@@ -1,0 +1,37 @@
+1.1  Assignment-1
+
+
+1. Various sources of Big Data:
+
+
+    ans:
+        * Social Media like facebook,youtube,etc.
+        * the weather forecast department that stores the climatic conditions data for future reference.
+        * Stock Exchange which stores variable data.
+        * online banking transactions etc.
+
+2. 3 V's of Big data :
+
+    ans:
+        *Volume-  size of data stored (often in TB).
+        *Variety-  structured data like tables and files,
+                  unstructured data like those of facebook,amazon etc.,
+                  semi structured data like the information about a file say it's creation time,date etc.
+        *Velocity-  the rate of speed at which the data changes.
+        
+3. Horizontal Scaling and Vertical Scaling:
+
+    ans:
+        *Horizontal Scaling:
+                         adding or increasing the no. of computers in the pool with the required resources.
+        *Vertical Scaling:
+                       adding  the resources to a single computer of the network or pool inorder to increase it's efficiency.
+
+4. Need and Working of Hadoop:
+
+    ans:
+        Hadoop is a open-source framework which is java based and provides a reliable and a scalable platform for storage and processing.
+   
+It uses 2 concepts:
+            *HDFS
+            *Map Reduce 
