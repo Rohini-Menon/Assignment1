@@ -10,7 +10,7 @@
         * Stock Exchange which stores variable data.
         * online banking transactions etc.
 
-2. 3 V's of Big data :
+2. 3 V's of Big data:
 
     ans:
         *Volume-  size of data stored (often in TB).
